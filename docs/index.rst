@@ -53,7 +53,7 @@ A imagem abaixo mostra as seleções feitas no conjunto de dados, chegando no n�
 |
 .. note:: O artigo oriundo deste estudo foi publicado na **Scientific Reports** da **Nature**, podendo ser lido na íntegra `aqui <https://www.nature.com/articles/s41598-023-35649-9>`_.  
 
-Os códigos completos estão disponíveis no `Github <https://github.com/Lucas-Buk/colorectal>`_.
+Os códigos completos estão disponíveis no `Github <https://github.com/DCD-NSEE/colorectal_cancer>`_.
 
 .. toctree::
    :maxdepth: 1
